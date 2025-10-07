@@ -1,14 +1,22 @@
-div {
-    background-color: #e9edc9;
-    border-style: solid;
-    border-width: 2px;
-    border-color: black;
-  }
-  
-  img {
-    max-width: 80%;
-  }
-  
-  #header {
-    background-color: #d4a373;
-  }
+html {
+  height: 100%;
+  width: 100%;
+}
+img {
+  width: 370px;
+  height: 370px;
+  object-fit: cover;
+}
+H1  {
+  background-color: grey;
+}
+h2 {
+  background-color: darkblue;
+}
+
+p {
+  background-color: lightgrey;
+}
+ul {
+  background-color: lightgrey;  
+}
